@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  Portal.cpp
+  Player.cpp
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\player.cpp(90): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\player.cpp(95): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\player.cpp(100): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\player.cpp(105): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  OutsidePanel.cpp
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\outsidepanel.cpp(200): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\outsidepanel.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NPC.cpp
+  MonsterTeam.cpp
+  Monster.cpp
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\monster.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\monster.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\monster.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\monster.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Item.cpp
+  Environment.cpp
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\environment.cpp(57): warning C4101: 'ev': unreferenced local variable
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\environment.cpp(108): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\keith\source\repos\alphaturesrpg\alphaturesrpg\environment.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DialogueFeed.cpp
+  ClockDisplay.cpp
+  BattleMode.cpp
+  Bag.cpp
+  AlphaturesRPG.cpp
+  Generating Code...
+  AlphaturesRPG.vcxproj -> C:\Users\keith\source\repos\AlphaturesRPG\Debug\AlphaturesRPG.exe
+  AlphaturesRPG.vcxproj -> C:\Users\keith\source\repos\AlphaturesRPG\Debug\AlphaturesRPG.pdb (Partial PDB)
